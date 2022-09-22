@@ -1,10 +1,9 @@
-## How long would it take to launch a land-based missile that is
-on hair-trigger alert from Russia to USA?
+# How long would it take to launch a land-based missile that is on hair-trigger alert from Russia to USA?
 ## Affiliation
 
 Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor de la Luz at the _National Autonomous University of Mexico_ (UNAM), in its  National School of Superior-Level Studies, _Morelia_ Campus (ENES Morelia), as part of its _Bs. in Information Technologies applied to Science_ career plan.
 
-> DEVELOPED BY:
+> Developed by:
 >
 > Arely Hilda Luis Tiburcio  | arelyhildalt@gmail.com | ([@areelu](https://github.com/areelu))
 > 
