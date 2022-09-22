@@ -1,4 +1,4 @@
-# : How long would it take to launch a land-based missile that is
+## How long would it take to launch a land-based missile that is
 on hair-trigger alert from Russia to USA?
 ## Affiliation
 
@@ -71,23 +71,23 @@ Additionally, it plans to make use of the following web technologies, on top of 
 # Conclusions
 ...
 
-# References (all URLs accessed January 2015).
+### References (all URLs accessed January 2015).
 
 > Kristensen, H.M., and M. McKinzie. 2012. Reducing alert rates of
-nuclear weapons. UNIDIR/2012/6. Geneva,
-Switzerland: United Nations Institute for Disarmament
-Research. Online at
-http://www.unidir.org/files/publications/pdfs/reducingalert-rates-of-nuclear-weapons-400.pdf.
+> nuclear weapons. UNIDIR/2012/6. Geneva,
+> Switzerland: United Nations Institute for Disarmament
+> Research. Online at
+> http://www.unidir.org/files/publications/pdfs/reducingalert-rates-of-nuclear-weapons-400.pdf.
 >
 > Kristensen, H.M., and Robert S. Norris. 2014. US nuclear forces,
-2014. Bulletin of the atomic scientists 70(1):85–93.
-Online at: http://bos.sagepub.com/content/70/1/85.full.
+> 2014. Bulletin of the atomic scientists 70(1):85–93.
+> Online at: http://bos.sagepub.com/content/70/1/85.full.
 >
 > Schlosser, E. 2013. Command and control: nuclear weapons, the
-Damascus accident, and the illusion of safety. New York:
-The Penguin Press.
+> Damascus accident, and the illusion of safety. New York:
+> The Penguin Press.
 >
 > Union of Concerned Scientists (UCS). 2015. U.S. military and
-political leaders urge taking nuclear weapons off hairtrigger alert. January. Fact sheet. Online at
-www.ucsusa.org/hairtriggerquotes.
+> political leaders urge taking nuclear weapons off hairtrigger alert. January. Fact sheet. Online at
+> www.ucsusa.org/hairtriggerquotes.
 
