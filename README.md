@@ -19,6 +19,8 @@ The need for such a project stems as a desire to function as a real-time alert s
 
 As a final project, this aims to be a practical demostration of how a series of computers in parallel can be used to obtain an easily scalable product that could potentially be commercialized and expanded upon once completed, without relying on a single, high performance computer to perform the entire process.
 
+“Hair-trigger alert”: is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
+
 # Objectives
 The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:
 
