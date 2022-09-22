@@ -72,7 +72,7 @@ Additionally, it plans to make use of the following web technologies, on top of 
 ## Conclusions
 ...
 
-## References (all URLs accessed January 2015).
+## References ## (all URLs accessed January 2015).
 
 > Kristensen, H.M., and M. McKinzie. 2012. Reducing alert rates of
 > nuclear weapons. UNIDIR/2012/6. Geneva,
