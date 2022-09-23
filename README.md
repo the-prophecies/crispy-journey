@@ -13,7 +13,7 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 
 
 ## Introduction
-The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Russia to Washingtong D.C, 
+The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Moscow to Washingtong D.C.
 
 _Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
