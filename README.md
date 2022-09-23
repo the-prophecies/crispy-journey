@@ -11,6 +11,8 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 > 
 > Luis Aarón Nieto Cruz | aaronnicruz@gmail.com | ([@LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
 
+The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
+
 
 ## Introduction
 The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Moscow to Washington D.C. This came to our attention given the current world climate, in which tensions between both countries are on the rise, therefore creating a need to accurately predict an offensive maneuver on behalf of Russia to provide preventive strategies.  
@@ -39,7 +41,7 @@ The project is to be developed by making use of C standard.
 > nuclear weapons. UNIDIR/2012/6. Geneva,
 > Switzerland: United Nations Institute for Disarmament
 > Research. Online at
-> http://www.unidir.org/files/publications/pdfs/reducingalert-rates-of-nuclear-weapons-400.pdf.
+> http://www.unidir.org/files/publications/pdfs/reducing-alert-rates-of-nuclear-weapons-400.pdf.
 
 > Kristensen, H.M., and Robert S. Norris. 2014. US nuclear forces,
 > 2014. Bulletin of the atomic scientists 70(1):85–93.
