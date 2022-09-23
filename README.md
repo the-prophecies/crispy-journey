@@ -13,32 +13,43 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 
 
 ## Introduction
-The following project intends to provide a functional endpoint in which a potential user can visualize a map containing worldwide flight routes in real time. 
+~~The following project intends to provide a functional endpoint in which a potential user can visualize a map containing worldwide flight routes in real time.~~
 
-The need for such a project stems as a desire to function as a real-time alert system with which to calculate the range in which a solar flare can cause interference with the equipment on board of airships currently flying at high altitudes, given their vulnerability to EMP events.
+~~The need for such a project stems as a desire to function as a real-time alert system with which to calculate the range in which a solar flare can cause interference with the equipment on board of airships currently flying at high altitudes, given their vulnerability to EMP events.~~
 
-As a final project, this aims to be a practical demostration of how a series of computers in parallel can be used to obtain an easily scalable product that could potentially be commercialized and expanded upon once completed, without relying on a single, high performance computer to perform the entire process.
+~~As a final project, this aims to be a practical demostration of how a series of computers in parallel can be used to obtain an easily scalable product that could potentially be commercialized and expanded upon once completed, without relying on a single, high performance computer to perform the entire process.~~
 
 “Hair-trigger alert”: is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
 ## Objectives
-The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:
+~~The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:~~
 
-> Data Retrieval Server
+~~> Data Retrieval Server~~
 
-In charge of obtaining real-time data from the OpenSky Network API, through the use of Python. Will relay said information in a timely manner to the Storage Server, while also keeping copies of recent data points as required for archive purposes.
+~~In charge of obtaining real-time data from the OpenSky Network API, through the use of Python. Will relay said information in a timely manner to the Storage Server, while also keeping copies of recent data points as required for archive purposes.~~
 
-> Storage Server
+~~> Storage Server~~
 
-In charge of storing up-to-date data with PostgreSQL, to be sorted and retrieved as needed by the Processing Server.
+~~In charge of storing up-to-date data with PostgreSQL, to be sorted and retrieved as needed by the Processing Server.~~
 
-> Processing Server
+~~> Processing Server~~
 
-In charge of generating map images on demand, based on the request by the Web Server API
+~~In charge of generating map images on demand, based on the request by the Web Server API~~
 
-> Web Server
+~~> Web Server~~
 
-In charge of displaying map images to the end user through a modern web interface
+~~In charge of displaying map images to the end user through a modern web interface~~
+
+The objective of this project is to model the trajectory of a nuclear missile on alert from Moscow to Washington D.C. and the impact repercussions with the goal of developing a contingency plan to the extent possible.
+
+Our model should be able to:
+
+Predict the trajectory of the missile before it impacts.
+
+Calculate the time it will take to impact.
+
+Predict impact damage.
+
 
 
 ## Toolset
