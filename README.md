@@ -13,16 +13,12 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 
 
 ## Introduction
-The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Moscow to Washington D.C.
+The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Moscow to Washington D.C. This came to our attention given the current world climate, in which tensions between both countries are on the rise, therefore creating a need to accurately predict an offensive maneuver on behalf of Russia to provide preventive strategies.  
 
 _Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
-## Objectives
-The expected output of this project is a set of four servers, each of which provide an essential part of the project. Their denomination is as follows:
-
-> Data Retrieval Server
-
-
+## Objective
+Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time of flight. Additionaly, compose said images into a gif.
 
 
 ## Toolset
@@ -30,22 +26,12 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ## Methodology
-...
-
-
 
 ## Usage Instructions & Requirements
-...
-
-
 
 ## Results
-...
-
-
 
 ## Conclusions
-...
 
 ## References (all URLs accessed September 2022).
 
