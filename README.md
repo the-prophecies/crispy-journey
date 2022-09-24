@@ -1,4 +1,4 @@
-# How long would it take to launch a land-based missile that is on hair-trigger alert from Russia to USA?
+# How long would it take to launch a land-based missile that is on hair-trigger alert from M to W?
 ## Affiliation
 
 Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor de la Luz at the _National Autonomous University of Mexico_ (UNAM), in its  National School of Superior-Level Studies, _Morelia_ Campus (ENES Morelia), as part of its _Bs. in Information Technologies applied to Science_ career plan.
@@ -11,11 +11,12 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 > 
 > Luis Aarón Nieto Cruz | aaronnicruz@gmail.com | ([@LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
 
+## License
 The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
 
 
 ## Introduction
-The following project intends to model the trajectory of a land-based missile that is on hair-trigger alert from Moscow to Washington D.C. This came to our attention given the current world climate, in which tensions between both countries are on the rise, therefore creating a need to accurately predict an offensive maneuver on behalf of Russia to provide preventive strategies.  
+The following project aims to model the trajectory of a parabolic shot between M and W at a distance of 7,816 km, with varying mass and thrust by calculating the drag force in an atmosphere with polar trajectory.
 
 _Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
