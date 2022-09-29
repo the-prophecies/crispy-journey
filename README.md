@@ -1,4 +1,5 @@
 # How long would it take to launch a land-based missile that is on hair-trigger alert from M to W?
+# """""Simulation of a missile launched from A to B following a polar trajectory at 2000km distance""""""
 ## Affiliation
 
 Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor de la Luz at the _National Autonomous University of Mexico_ (UNAM), in its  National School of Superior-Level Studies, _Morelia_ Campus (ENES Morelia), as part of its _Bs. in Information Technologies applied to Science_ career plan.
@@ -21,7 +22,7 @@ The following project aims to model the trajectory of a parabolic shot between M
 _Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
 ## Objective
-Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time of flight. Additionaly, compose said images into a gif.
+Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time of flight, mass loss affected by the time and distance of flight. Additionaly, compose said images into a gif.
 
 
 ## Toolset
@@ -36,24 +37,5 @@ The project is to be developed by making use of C standard.
 
 ## Conclusions
 
-## References (all URLs accessed September 2022).
-
-> Kristensen, H.M., and M. McKinzie. 2012. Reducing alert rates of
-> nuclear weapons. UNIDIR/2012/6. Geneva,
-> Switzerland: United Nations Institute for Disarmament
-> Research. Online at
-> http://www.unidir.org/files/publications/pdfs/reducing-alert-rates-of-nuclear-weapons-400.pdf.
-
-> Kristensen, H.M., and Robert S. Norris. 2014. US nuclear forces,
-> 2014. Bulletin of the atomic scientists 70(1):85–93.
-> Online at: http://bos.sagepub.com/content/70/1/85.full.
-
-> Schlosser, E. 2013. Command and control: nuclear weapons, the
-> Damascus accident, and the illusion of safety. New York:
-> The Penguin Press.
-
-> Union of Concerned Scientists (UCS). 2015. U.S. military and
-> political leaders urge taking nuclear weapons off hairtrigger alert. January. Fact sheet. Online at
-> www.ucsusa.org/hairtriggerquotes.
-
+## References 
 
