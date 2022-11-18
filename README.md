@@ -11,7 +11,7 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 > Arely Hilda Luis Tiburcio  | arelyhildalt@gmail.com | ([@areelu](https://github.com/areelu))
 
 
-## License
+### License
 
 The contents of this repository are licensed under the GNU General Public License version 3. Visit https://www.gnu.org/licenses/gpl-3.0.html for more information.
 
@@ -27,20 +27,16 @@ The following project aims to model the trajectory of a parabolic shot between M
 
 _Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
 
-## Objective
+### Objective
 Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time of flight, mass loss affected by the time and distance of flight. Additionaly, compose said images into a gif.
 
 
-## Toolset
+### Toolset
 The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
-## Methodology
+### Methodology
 
-## Usage Instructions & Requirements
+### Conclusions
 
-## Results
-
-## Conclusions
-
-## References 
+### References 
