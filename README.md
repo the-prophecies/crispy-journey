@@ -38,6 +38,6 @@ The project is to be developed by making use of C standard.
 ### Methodology
 
 ### Conclusions
-![My_Image](nbody.png)
+![](nbody.png)
 
 ### References 
