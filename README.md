@@ -36,9 +36,9 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ### Methodology
-The first approximation assume that the population with obesity and overweight follow a simple population growth scenario described by the dynamic system following the equation:
+The gravity force is defined by:
 
-![](deq.png)
+![](gravity_force.png)
 
 Due to it being a separable differential equation, it can be solved to result in the following expression for P(t). Where:
 
