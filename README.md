@@ -36,19 +36,18 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ### Methodology
-The gravity force is defined by:
+Every object in the universe attracts every other object The gravity force is defined by:
 
 ![](gravity_force.png)
 
-Due to it being a separable differential equation, it can be solved to result in the following expression for P(t). Where:
-
-> r: relative growth coefficient
+Where:
+> Fg: gravitational force
 > 
-> K: capacity of the population
+> m1 & m2: masses of the two objects
 > 
-> t: time since a base point
+> r: separation between the two objects
 > 
-> p(t): growth function
+> G: universal gravitational constant
 >
 The growth rate depends on a growth coefficient multiplied by the response capacity of the population.
 
