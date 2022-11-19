@@ -38,5 +38,6 @@ The project is to be developed by making use of C standard.
 ### Methodology
 
 ### Conclusions
+![My Image](nbody.jpg)
 
 ### References 
