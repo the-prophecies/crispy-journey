@@ -38,6 +38,6 @@ The project is to be developed by making use of C standard.
 ### Methodology
 
 ### Conclusions
-![](nbody.png)
+![](nbody.gif)
 
 ### References 
