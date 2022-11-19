@@ -59,8 +59,8 @@ Once separated, the dynamic system can be fitted accordingly with our data, as o
 > P(0): 
 
 ### Run
-Execute [WEIGHTSM.py](WEIGHTSM.py) using a Linux terminal with the packages mentioned above. 
-> Use the command Python 3 ....
+Execute [main.c](main.c) using a terminal with the packages mentioned above. 
+> Use the cat command on Linux ....
 
 
 ### Results
