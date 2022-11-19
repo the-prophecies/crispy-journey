@@ -36,6 +36,46 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ### Methodology
+The first approximation assume that the population with obesity and overweight follow a simple population growth scenario described by the dynamic system following the equation:
+
+![](deq.png)
+
+Due to it being a separable differential equation, it can be solved to result in the following expression for P(t). Where:
+
+> r: relative growth coefficient
+> 
+> K: capacity of the population
+> 
+> t: time since a base point
+> 
+> p(t): growth function
+>
+The growth rate depends on a growth coefficient multiplied by the response capacity of the population.
+
+![](eq.png)
+
+Once separated, the dynamic system can be fitted accordingly with our data, as obtained in the data source described above. This was achieved by making use of scipy's implementation of Levenberg-Marquard minimization. Where:
+>
+> P(0): 
+
+### Run
+Execute [WEIGHTSM.py](WEIGHTSM.py) using a Linux terminal with the packages mentioned above. 
+> Use the command Python 3 ....
+
+
+### Results
+Using L-M minimization, we found the following parameters:
+
+For overweight (OW): 
+r = 0.10457, K = 25105894.30522
+
+For obesity (OB): 
+r = 0.10763, K = 28892092.21548
+
+For overweight and obesity: 
+r = 0.08692, K = 56037606.60947
+
+![](weightpopulation.png)
 
 ### Conclusions
 ![](nbody.gif)
