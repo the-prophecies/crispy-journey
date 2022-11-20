@@ -25,8 +25,6 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 ## Introduction
 The following project aims to model the trajectory of a parabolic shot between M and W at a distance of 7,816 km, with varying mass and thrust by calculating the drag force in an atmosphere with polar trajectory.
 
-_Hair-trigger alert:_ is a US military policy that enables the rapid launch of nuclear weapons. Missiles on hair-trigger alert are maintained in a ready-for-launch status, staffed by around-the-clock launch crews, and can be airborne in as few as ten minutes.
-
 ### Objective
 Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time of flight, mass loss affected by the time and distance of flight. Additionaly, compose said images into a gif.
 
@@ -36,7 +34,7 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ### Methodology
-Every object in the universe attracts every other object with a force directed along the line of centers for the two objects that is proportional to the product of their masses and inversely proportional to the square of the separation beetween the two objetcs. The gravity force is defined by:
+Newton's Law of Universal Gravitation states that every particle attracts every other particle in the universe with force directly proportional to the product of the masses and inversely proportional to the square of the distance between them. The gravity force is defined by:
 
 ![](gravity_force.png)
 
