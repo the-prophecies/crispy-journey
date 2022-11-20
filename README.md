@@ -41,13 +41,15 @@ Every object in the universe attracts every other object The gravity force is de
 ![](gravity_force.png)
 
 Where:
-> Fg: gravitational force
+> F: gravitational force
 > 
 > m1 & m2: masses of the two objects
 > 
 > r: separation between the two objects
 > 
 > G: universal gravitational constant
+> 
+>u:
 >
 The growth rate depends on a growth coefficient multiplied by the response capacity of the population.
 
