@@ -36,16 +36,16 @@ The project is to be developed by making use of C standard.
 * [ISO C 98](https://www.iso.org/standards.html)
 
 ### Methodology
-Every object in the universe attracts every other object The gravity force is defined by:
+Every object in the universe attracts every other object with a force directed along the line of centers for the two objects that is proportional to the product of their masses and inversely proportional to the square of the separation beetween the two objetcs. The gravity force is defined by:
 
 ![](gravity_force.png)
 
 Where:
 > F: gravitational force
 > 
-> m1 & m2: masses of the two objects
+> m1 & m2: masses of the two objects, in this case, the mass of the missile and the mass of the Earth.
 > 
-> r: separation between the two objects
+> r: separation between the two objects, in this case, the Earth radius.
 > 
 > G: universal gravitational constant
 > 
