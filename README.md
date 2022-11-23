@@ -61,6 +61,6 @@ Execute [main.c](main.c) using a terminal with the packages mentioned above.
 ### Results
 
 ### Conclusions
-![](nbody.gif)
+![](NO_nbody.gif)
 
 ### References 
