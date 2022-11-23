@@ -38,6 +38,7 @@ Newton's Law of Universal Gravitation states that every particle attracts every 
 
 ![](gravity_force.png)
 
+
 Where:
 > F: gravitational force
 > 
@@ -64,3 +65,6 @@ Execute [main.c](main.c) using a terminal with the packages mentioned above.
 ![](NO_nbody.gif)
 
 ### References 
+Newton´s Law of Universal Gravitation: https://g.co/kgs/XYJiv7
+
+
