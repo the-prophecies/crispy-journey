@@ -49,11 +49,7 @@ Where:
 > 
 >u:
 >
-The growth rate depends on a growth coefficient multiplied by the response capacity of the population.
 
-![](eq.png)
-
-Once separated, the dynamic system can be fitted accordingly with our data, as obtained in the data source described above. This was achieved by making use of scipy's implementation of Levenberg-Marquard minimization. Where:
 >
 > P(0): 
 
@@ -63,18 +59,6 @@ Execute [main.c](main.c) using a terminal with the packages mentioned above.
 
 
 ### Results
-Using L-M minimization, we found the following parameters:
-
-For overweight (OW): 
-r = 0.10457, K = 25105894.30522
-
-For obesity (OB): 
-r = 0.10763, K = 28892092.21548
-
-For overweight and obesity: 
-r = 0.08692, K = 56037606.60947
-
-![](weightpopulation.png)
 
 ### Conclusions
 ![](nbody.gif)
