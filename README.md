@@ -23,7 +23,7 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 
 
 ## Introduction
-The following project aims to model the trajectory of a parabolic shot between M and W at an initial velocity of 7000 m/s, with a mass of 70 tons, at a 45° of angle, thrust by calculating the drag force in an atmosphere with polar trajectory.
+The following project aims to model the trajectory of a parabolic shot between M and W at an initial velocity of 7000 m/s, with a mass of 70 tons, at a 45° of angle with polar trajectory.
 
 ### Objective
 Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time, distance, and velocity of flight. Additionaly, compose said images into a gif.
