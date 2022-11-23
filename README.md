@@ -48,11 +48,7 @@ Where:
 > 
 > G: universal gravitational constant
 > 
->u:
->
 
->
-> P(0): 
 
 ### Run
 Execute using a terminal with the packages mentioned above. 
