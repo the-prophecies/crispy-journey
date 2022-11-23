@@ -67,6 +67,7 @@ Execute using a terminal with the packages mentioned above.
 ![](NO_nbody.gif)
 
 ### References 
-Newton´s Law of Universal Gravitation: https://g.co/kgs/XYJiv7
+De la Luz, V. (2022). Class: Modeling and Simulation 2023-1. [ENES Unidad Morelia](https://www.enesmorelia.unam.mx/).
+Newton's Law of Universal Gravitation: https://g.co/kgs/XYJiv7
 
 
