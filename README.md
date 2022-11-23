@@ -38,6 +38,7 @@ Newton's Law of Universal Gravitation states that every particle attracts every 
 
 ![](gravity_force.png)
 
+Retrieved from [Link page](https://pixels.com/featured/newtons-law-of-universal-gravitation-science-photo-library.html)
 
 Where:
 > F: gravitational force
