@@ -55,8 +55,10 @@ Where:
 > P(0): 
 
 ### Run
-Execute [main.c](main.c) using a terminal with the packages mentioned above. 
-> Use the cat command on Linux ....
+Execute using a terminal with the packages mentioned above. 
+* [visor3.py](visor3d.py)
+* [NobodyWIN64.exe](NobodyWIN64.exe)
+* [convert -delay 3 -loop 0 video/*.png nobody.gif]
 
 
 ### Results
