@@ -23,11 +23,10 @@ Final Project for the Modeling and Simulation 2023-1 class, taught by Dr. Victor
 
 
 ## Introduction
-The following project aims to model the trajectory of a parabolic shot between M and W at an initial velocity of 7000 m/s, with a mass of 70 tons, at a 45° of angle with polar trajectory.
+The following project aims to model the trajectory of a parabolic shot between M and W at an initial velocity of 5500 m/s, with amass of 70 tons, at a 45° angle with polar trajectory.
 
 ### Objective
 Generate a series of graphs which accurately predict and simulate the trajectory of a missile with the given initial conditions, in order to estimate the time, distance, and velocity of flight. Additionaly, compose said images into a gif.
-
 
 ### Toolset
 The project is to be developed by making use of C standard.
@@ -48,24 +47,18 @@ Where:
 > r: separation between the two objects, in this case, the Earth radius.
 > 
 > G: universal gravitational constant
-> 
->u:
->
-
->
-> P(0): 
 
 ### Run
 Execute using a terminal with the packages mentioned above. 
-* [visor3D.py](visor3D.py)
-* [NobodyWIN64.exe](NobodyWIN64.exe)
+* `x64/Debug/NBodyVSol.exe > nbody.dat`
+* `visor3d.py`
 * `convert -delay 3 -loop 0 video/*.png nobody.gif`
 
-
 ### Results
+![](NO_nbody.gif)
 
 ### Conclusions
-![](NO_nbody.gif)
+The final flight time of the missile is of 2,402s with an initial weight of 70,000 kg and a mass loss coefficient of 5 kilograms per second up to 40% of missile mass. The missile traveled a quarter of the earth's perimeter. 
 
 ### References 
 De la Luz, V. (2022). Class: Modeling and Simulation 2023-1. [ENES Unidad Morelia](https://www.enesmorelia.unam.mx/).
