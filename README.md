@@ -56,7 +56,7 @@ Execute using a terminal with the packages mentioned above.
 * `convert -delay 3 -loop 0 video/*.png nobody.gif`
 
 ### Results
-![](NO_nbody.gif)
+![](nbody.gif)
 
 ### Conclusions
 The final flight time of the missile is of 2,402s with an initial weight of 70,000 kg and a mass loss coefficient of 5 kilograms per second up to 40% of missile mass. The missile traveled a quarter of the earth's perimeter. 
