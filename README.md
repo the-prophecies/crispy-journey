@@ -64,6 +64,6 @@ The final flight time of the missile is of 2,402s with an initial weight of 70,0
 ### References 
 De la Luz, V. (2022). Class: Modeling and Simulation 2023-1. [ENES Unidad Morelia](https://www.enesmorelia.unam.mx/).
 
-Newton's Law of Universal Gravitation: https://g.co/kgs/XYJiv7
+[Newton's Law of Universal Gravitation](https://g.co/kgs/XYJiv7)
 
 
