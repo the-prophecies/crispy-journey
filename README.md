@@ -35,7 +35,7 @@ The project is to be developed by making use of C standard.
 ### Methodology
 Newton's Law of Universal Gravitation states that every particle attracts every other particle in the universe with force directly proportional to the product of the masses and inversely proportional to the square of the distance between them. The gravity force is defined by:
 
-![](formula.png)
+![](formula.png | width=100)
 
 Retrieved from [Link page](https://pixels.com/featured/newtons-law-of-universal-gravitation-science-photo-library.html)
 
