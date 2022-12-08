@@ -51,9 +51,11 @@ Where:
 
 ### Run
 Execute using a terminal with the packages mentioned above. 
-* `x64/Debug/NBodyVSol.exe > nbody.dat`
-* `visor3d.py`
+* `./NBodyVSol > nbody.dat`
+* `python3 visor3D.py`
 * `convert -delay 3 -loop 0 video/*.png nobody.gif`
+
+
 
 ### Results
 ![](nbody.gif)
