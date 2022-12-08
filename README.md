@@ -49,6 +49,11 @@ Where:
 > 
 > G: universal gravitational constant
 
+### Dependencies
+* Python 3.10
+* Pip 3 (`sudo apt-get install python3-pip`)
+* MatPlotLib (`pip3 install matplotlib`)
+
 ### Run
 Execute using a terminal with the packages mentioned above. 
 * `./NBodyVSol > nbody.dat`
